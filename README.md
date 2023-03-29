@@ -12,5 +12,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jojiyosoy/)
 
 ## 🛠 Habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,github,git)](https://skillicons.dev)
 
