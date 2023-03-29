@@ -1,5 +1,6 @@
 
 # Opa, falaê, beleza? Me chamo Jorge Lucas, sou estudante de programação e estou buscando uma oportunidade! 👋
+- Me amarro em RPG, principalmente os de mesa 🎲🎮
 - Tenho um humor duvidoso para alguns e perfeito para outros
 - Gosto muito de esportes, Vôlei 🏐 e Taekwondo 🥋
 - Música corre na minha alma 🎵
