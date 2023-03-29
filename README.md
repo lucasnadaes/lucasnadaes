@@ -4,6 +4,7 @@
 - Gosto muito de esportes, Vôlei 🏐 e Taekwondo 🥋
 - Música corre na minha alma 🎵
 
+![Jorluc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnadaes&show_icons=true&theme=radical)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasnadaes/)
