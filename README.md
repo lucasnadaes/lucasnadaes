@@ -2,7 +2,7 @@
 # Opa, falaê, beleza? Me chamo Jorge Lucas, sou estudante de programação e estou buscando uma oportunidade! 👋
 - Me amarro em RPG, principalmente os de mesa 🎲🎮
 - Tenho um humor duvidoso para alguns e perfeito para outros
-- Gosto muito de esportes, Vôlei 🏐 e Taekwondo 🥋
+- Jogo um pouquinho de vôlei 🏐
 - Música corre na minha alma 🎵
 
 ![Jorluc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnadaes&show_icons=true&theme=radical)
